@@ -1,0 +1,1 @@
+sudo service motion start & python /home/quintin/Projects/WebControlledRobot/WebControlledRobot/app.py
